@@ -1,12 +1,12 @@
+@font-face {
+  font-family: AppleFont;
+  src: url("/sf-pro-display-cufonfonts/SFPRODISPLAYREGULAR.OTF");
+}
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
   font-family: AppleFont;
-}
-@font-face {
-  font-family: AppleFont;
-  src: url("SFPRODISPLAYREGULAR.otf");
 }
 
 :root {
